@@ -1,4 +1,10 @@
+lib-cov
+coverage
+.DS_Store
+logs
 *.log
-.vscode
-DS_Store
 node_modules
+.vscode
+dist
+.eslintrc
+.eslintignores
