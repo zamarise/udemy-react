@@ -8,3 +8,4 @@ node_modules
 dist
 .eslintrc
 .eslintignores
+keys.js
